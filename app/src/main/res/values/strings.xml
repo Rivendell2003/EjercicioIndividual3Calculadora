@@ -1,12 +1,36 @@
 <resources>
-    <string name="app_name">Ejercicio Individual 3 Calculadora</string>
-    <string name="n_mero_1">Número 1</string>
-    <string name="n_mero_2">Número 2</string>
+    <string name="welcome_message">Bienvenido a la calculadora</string>
+    <string name="app_name">Calculadora</string>
+    <string name="number_1">Número 1</string>
+    <string name="number_2">Número 2</string>
     <string name="sumar">Sumar</string>
     <string name="restar">Restar</string>
     <string name="multiplicar">Multiplicar</string>
     <string name="dividir">Dividir</string>
-    <string name="resultado">Resultado:</string>
-    <string name="by_jonny_java">by Jonny JaVa</string>
-    <string name="todo">TODO</string>
+    <string name="resultado">Resultado: </string>
+    <string name="by_jonny_java">By Jonny Java</string>
+    <string name="error_empty_inputs">Error: Ingrese ambos números</string>
+    <string name="error_invalid_input">Error: Entrada no válida</string>
+    <string name="error_division_by_zero">Error: No se puede dividir entre cero</string>
+    <string name="result_text">Resultado: %1$.2f</string>
+
+    <string name="activity_main_text_0">0</string>
+    <string name="activity_main_text_1">1</string>
+    <string name="activity_main_text_2">2</string>
+    <string name="activity_main_text_3">3</string>
+    <string name="activity_main_text_4">4</string>
+    <string name="activity_main_text_5">5</string>
+    <string name="activity_main_text_6">6</string>
+    <string name="activity_main_text_7">7</string>
+    <string name="activity_main_text_8">8</string>
+    <string name="activity_main_text_9">9</string>
+
+    <string name="activity_main_text_clear">C</string>
+
+    <string name="input_prompt">Ingrese un número:</string>
+    <string name="operation_prompt">Seleccione una operación:</string>
+    <string name="clear_display">Pantalla limpiada</string>
+
+    <string name="activity_main_text_equals">=</string>
+    <string name="by_jonny_v_a">by Jonny V.A.</string>
 </resources>
